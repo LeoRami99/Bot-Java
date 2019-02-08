@@ -1,4 +1,6 @@
-# Bot-Java 
+# Bot-Java
+<br><h2>git clone https://github.com/LeoRami99/Bot-Java.git<h2>
+<br><h2>java bot</h2>
 la finalidad de este bot es solo darte un respuesta fuera de lo común
 estos son algunos comandos que pueden usar:
 <br>*hola-Hola-Hey- que onda
