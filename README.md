@@ -16,5 +16,5 @@ estos son algunos comandos que pueden usar:
 <br>*mi futuro 
 <br>etc..
 ser iran agregando nuevos comandos periodicamente 
-<br><a href="https://ibb.co/3ST43gF"><img src="https://i.ibb.co/3ST43gF/Pantallazo-2019-02-07-19-58-29.png" alt="Pantallazo-2019-02-07-19-58-29" border="0"></a>
+<br><img src="https://i.ibb.co/RQgYFR6/Pantallazo-2019-02-07-19-58-29.png" width="800px" height="600px">
 
